@@ -1,14 +1,40 @@
-☕ Object-Oriented Programming with Java
-Mastering the 4 Pillars of OOPs and Java basics.
+# 💻 OOPS Notes (Java)
 
-Concepts Covered:
+## 📌 About
 
-Abstraction: Hiding complexity.
+Comprehensive notes for **Object-Oriented Programming using Java**.
 
-Encapsulation: Data binding.
+---
 
-Inheritance: Code reusability.
+## 📚 Topics Covered
 
-Polymorphism: Method Overloading & Overriding.
+* Classes & Objects
+* Inheritance
+* Polymorphism
+* Abstraction & Interfaces
+* Exception Handling
+* Multithreading
 
-Lab Work: Daily DSA problems solved using OOPs principles.
+---
+
+## 🎯 Purpose
+
+* Strong OOP fundamentals
+* Interview preparation
+* Coding clarity
+
+---
+
+## 🚀 How to Use
+
+* Practice code examples
+* Focus on concepts + real use
+
+---
+
+## 🛠 Tech Used
+
+* Java
+* Markdown
+
+---
