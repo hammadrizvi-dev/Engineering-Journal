@@ -1,12 +1,38 @@
-🖥️ Operating Systems Essentials
-Concept-wise breakdown of how hardware meets software.
+# ⚙️ Operating System Notes
 
-Key Units:
+## 📌 About
 
-Unit 1: Introduction & System Calls.
+Structured notes for **Operating Systems (OS)** covering core concepts.
 
-Unit 2: Process Management (Scheduling Algorithms).
+---
 
-Unit 3: Memory Management (Paging & Segmentation).
+## 📚 Topics Covered
 
-Implementation: Coding CPU Scheduling algorithms (FCFS, SJF) in Java.
+* Process & Thread Management
+* CPU Scheduling
+* IPC & Synchronization
+* Deadlocks & Banker’s Algorithm
+* Memory Management
+* Paging & Virtual Memory
+
+---
+
+## 🎯 Purpose
+
+* Exam + Interview preparation
+* Concept clarity
+
+---
+
+## 🚀 How to Use
+
+* Practice numericals (Scheduling, Deadlock)
+* Revise theory regularly
+
+---
+
+## 🛠 Tech Used
+
+* Markdown
+
+---
