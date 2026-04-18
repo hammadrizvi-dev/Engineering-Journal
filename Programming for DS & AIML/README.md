@@ -1,6 +1,41 @@
-🤖 Programming for Data Science & AI/ML
-Mathematical foundations and Pythonic implementations.
+# 📊 Programming for Data Science Notes
 
-Phase 1: Python Libraries (NumPy, Pandas, Matplotlib). Phase 2: Math for ML (Linear Algebra, Calculus, Statistics). Phase 3: Supervised Learning (Regression, Classification).
+## 📌 About
 
-Projects: Exploratory Data Analysis (EDA) on real-world datasets.
+Complete notes for **Python + Data Science + ML basics**.
+
+---
+
+## 📚 Topics Covered
+
+* Python Fundamentals
+* NumPy & Pandas
+* Data Visualization
+* Machine Learning Basics
+* NLP Concepts
+
+---
+
+## 🎯 Purpose
+
+* Data Science foundation
+* Project preparation
+* Interview basics
+
+---
+
+## 🚀 How to Use
+
+* Practice code
+* Build mini projects
+
+---
+
+## 🛠 Tech Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+
+---
